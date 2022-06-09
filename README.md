@@ -12,5 +12,5 @@ Desafio final BootCamp Decola Tech Avanade - DIO: COnstruindo um app usando sens
 - Add Listener to RNShake
 - Lifecicly ReactJS
 
-#APK
+# APK
 Baixe na aba relase o apk e instale em seu celular android.
